@@ -1,0 +1,11 @@
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\serviceJsonToDB.exe.config
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\serviceJsonToDB.exe
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\serviceJsonToDB.pdb
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\Newtonsoft.Json.pdb
+D:\Programs\serviceJsonToDB\serviceJsonToDB\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\serviceJsonToDB\serviceJsonToDB\obj\Debug\serviceJsonToDB.csprojAssemblyReference.cache
+D:\Programs\serviceJsonToDB\serviceJsonToDB\obj\Debug\serviceJsonToDB.csproj.CoreCompileInputs.cache
+D:\Programs\serviceJsonToDB\serviceJsonToDB\obj\Debug\serviceJsonToDB.csproj.CopyComplete
+D:\Programs\serviceJsonToDB\serviceJsonToDB\obj\Debug\serviceJsonToDB.exe
+D:\Programs\serviceJsonToDB\serviceJsonToDB\obj\Debug\serviceJsonToDB.pdb

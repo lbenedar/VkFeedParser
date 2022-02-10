@@ -1,0 +1,11 @@
+D:\Programs\WinService\WinService\obj\Debug\WinService.csprojAssemblyReference.cache
+D:\Programs\WinService\WinService\obj\Debug\WinService.csproj.CoreCompileInputs.cache
+D:\Programs\WinService\WinService\bin\Debug\WinService.exe.config
+D:\Programs\WinService\WinService\bin\Debug\WinService.exe
+D:\Programs\WinService\WinService\bin\Debug\WinService.pdb
+D:\Programs\WinService\WinService\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\WinService\WinService\bin\Debug\Newtonsoft.Json.pdb
+D:\Programs\WinService\WinService\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\WinService\WinService\obj\Debug\WinService.csproj.CopyComplete
+D:\Programs\WinService\WinService\obj\Debug\WinService.exe
+D:\Programs\WinService\WinService\obj\Debug\WinService.pdb

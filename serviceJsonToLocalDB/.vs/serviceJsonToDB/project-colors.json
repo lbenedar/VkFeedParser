@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65d86058-d0a9-4884-b0c7-1d245b6189d6": {
+      "ProjectGuid": "65d86058-d0a9-4884-b0c7-1d245b6189d6",
+      "DisplayName": "serviceJsonToDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

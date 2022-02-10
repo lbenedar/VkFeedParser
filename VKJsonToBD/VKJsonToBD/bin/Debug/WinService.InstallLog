@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'D:\Programs\WinService\WinService\bin\Debug\WinService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Programs\WinService\WinService\bin\Debug\WinService.InstallLog
+   assemblypath = D:\Programs\WinService\WinService\bin\Debug\WinService.exe
+Устанавливается служба WinService...
+Служба WinService успешно установлена.
+Создается исходный EventLog WinService в журнале Application...
+Выполняется фиксация сборки 'D:\Programs\WinService\WinService\bin\Debug\WinService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Programs\WinService\WinService\bin\Debug\WinService.InstallLog
+   assemblypath = D:\Programs\WinService\WinService\bin\Debug\WinService.exe

@@ -1,0 +1,19 @@
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Данилов БББО-01-17.exe.config
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Данилов БББО-01-17.exe
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Данилов БББО-01-17.pdb
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\WebDriver.dll
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\WebDriver.Support.dll
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\WebDriver.xml
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\WebDriver.Support.xml
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\obj\Debug\Данилов БББО-01-17.csprojAssemblyReference.cache
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\obj\Debug\Данилов БББО-01-17.csproj.CoreCompileInputs.cache
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\obj\Debug\Данилов БББО-01-17.csproj.CopyComplete
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\obj\Debug\Данилов БББО-01-17.exe
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\obj\Debug\Данилов БББО-01-17.pdb
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Newtonsoft.Json.pdb
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\log4net.dll
+D:\Programs\Данилов БББО-01-17\Данилов БББО-01-17\bin\Debug\log4net.xml
